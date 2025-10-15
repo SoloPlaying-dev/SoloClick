@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using CapaPresentacion;
 
-namespace SistemaRegistro
+namespace ProgramaParaVender
 {
     static class Program
     {
@@ -17,7 +16,7 @@ namespace SistemaRegistro
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmAdministrativo());
+            Application.Run(new Form1());
         }
     }
 }

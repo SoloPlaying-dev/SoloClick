@@ -1,0 +1,35 @@
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.exe.config
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.exe
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.pdb
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.csprojResolveAssemblyReference.cache
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form1.resources
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Properties.Resources.resources
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.csproj.GenerateResource.Cache
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.exe
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.pdb
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form2.resources
+C:\Users\Hipolito.SERVER7\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form3.resources
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.exe.config
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.exe
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.pdb
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.exe
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.pdb
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.csprojResolveAssemblyReference.cache
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form1.resources
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form2.resources
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form3.resources
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Properties.Resources.resources
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.csproj.GenerateResource.Cache
+C:\Users\a19a04080\Documents\Visual Studio 2013\Projects\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form4.resources
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.exe.config
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.exe
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.pdb
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.exe
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\bin\Debug\ProgramaParaVender.pdb
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.csprojResolveAssemblyReference.cache
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form1.resources
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form2.resources
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form3.resources
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Form4.resources
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.Properties.Resources.resources
+G:\PERSONAL\ProgramaParaVender\ProgramaParaVender\obj\Debug\ProgramaParaVender.csproj.GenerateResource.Cache
